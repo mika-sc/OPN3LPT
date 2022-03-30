@@ -1,4 +1,4 @@
-# OPN3LPT v2.2 by 74644323 & OctSL
+# OPN3LPT v2.2 Codename [Immaterial and Missing Power] by 74644323 & OctSL
 
 #### OPN3LPT v2.2 is an improved model based on the OPN3LPT v1.0 (https://github.com/74644323/OPN3LPT)
 
