@@ -8,7 +8,7 @@
 
 v2.2: Add RESET button.
 
-
+v2.1: Bug fixed.
 
 
 ### 1. How to use?
