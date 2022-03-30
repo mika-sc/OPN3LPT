@@ -8,7 +8,7 @@
 
 ## Update log
 
-v2.2: Add RESET button.
+v2.2: Add RESET button, fixed some bugs.
 
 v2.1: Bug fixed.
 
