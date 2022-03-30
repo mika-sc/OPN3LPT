@@ -1,8 +1,14 @@
-# OPN3LPT v2.1 by 74644323 & OctSL
+# OPN3LPT v2.2 by 74644323 & OctSL
 
 #### OPN3LPT v2.1 is an improved model based on the OPN3LPT v1.0 (https://github.com/74644323/OPN3LPT)
 
-## Notice: This is the DB25 version that for IBM PC/AT, if you wanna use it on PC-98, you'd better make a HPCN36-to-DB25 board or cable.
+### Notice: This is the DB25 version that for IBM PC/AT, if you wanna use it on PC-98, you'd better make a HPCN36-to-DB25 board or cable.
+
+## Update log
+
+v2.2: Add RESET button.
+
+
 
 
 ### 1. How to use?
