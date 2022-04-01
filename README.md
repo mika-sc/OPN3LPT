@@ -4,7 +4,9 @@
 
 #### OPN3LPT v2.2 is an improved model based on the OPN3LPT v1.0 (https://github.com/74644323/OPN3LPT)
 
-### Notice: This is the DB25 version that for IBM PC/AT, if you wanna use it on PC-98, you'd better make a HPCN36-to-DB25 board or cable.
+### Notice: This is the DB25 version that for IBM PC/AT. 
+
+### For PC-98, you can make an HPCN36-to-DB25 cable.
 
 ## Update log
 
