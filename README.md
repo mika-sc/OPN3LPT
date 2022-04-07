@@ -4,9 +4,11 @@
 
 ### Notice: This is the DB25 version that for IBM PC/AT. 
 
-### For PC-98, I marked the wiring diagram on the back of the board.
+### For PC-98, I made connection signs for HPCN36/14 on the back of the board.
 
 ## Update log
+
+v2.21: Add HPCN36/14 connection sign.
 
 v2.2: Add RESET button, fixed some bugs.
 
