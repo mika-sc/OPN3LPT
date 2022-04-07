@@ -8,7 +8,7 @@
 
 ## Update log
 
-v2.21: Add HPCN36/14 connection sign.
+v2.21: Add HPCN36/14 connection sign, changed USB port, add POWER LED.
 
 v2.2: Add RESET button, fixed some bugs.
 
