@@ -1,12 +1,10 @@
-# OPN3LPT v2.2 by 74644323 & OctSL
+# OPN3LPT by 74644323 & OctSL
 
-## OPN3LPT v2.2 Codename [Immaterial and Missing Power]
-
-#### OPN3LPT v2.2 is an improved model based on the OPN3LPT v1.0 (https://github.com/74644323/OPN3LPT)
+#### Based on the OPN3LPT v1.0 (https://github.com/74644323/OPN3LPT)
 
 ### Notice: This is the DB25 version that for IBM PC/AT. 
 
-### For PC-98, you can make an HPCN36-to-DB25 cable.
+### For PC-98, I marked the wiring diagram on the back of the board.
 
 ## Update log
 
