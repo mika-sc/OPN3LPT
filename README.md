@@ -1,4 +1,5 @@
-# OPN3LPT by 74644323 & OctSL
+![EQ Z1GB F~7DE5%_T0)3GNQ](https://user-images.githubusercontent.com/69373938/167298114-2bae0eae-68ec-4361-9b23-b0afdb22c9a0.png)
+
 
 #### Based on the OPN3LPT v1.0 (https://github.com/74644323/OPN3LPT)
 
