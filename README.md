@@ -5,7 +5,7 @@
 
 ### Notice: This is the DB25 version that for IBM PC/AT. 
 
-### For PC-98, I made connection signs for HPCN36/14 on the back of the board.
+### For PC-98, see connection signs for HPCN36/14 on the back of the board.
 
 ## Update log
 
