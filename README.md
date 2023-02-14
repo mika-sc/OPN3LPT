@@ -38,7 +38,7 @@ v2.1: Bug fixed.
    
    1) PMDLPT for PC-98 (website:https://github.com/74644323/pmdsrc/releases)
    
-   2) PMDLPT for IBMPC (website:https://github.com/averyaveryavery/PMDLPT-for-IBMPC/releases)
+   2) PMDLPT for IBMPC (website:https://github.com/octsl/PMDLPT-for-IBMPC/releases)
  
 ### 4. Where's demo video?
 
