@@ -8,6 +8,9 @@
 
 ### For PC-98, see connection signs for HPCN36/14 on the back of the board.
 
+![X4LQ}}AU)DV__9%4RU4AFOE](https://user-images.githubusercontent.com/69373938/235280466-6f0947ce-5b7c-4a61-82a6-d0e47ce3c914.png)
+
+
 ## Update log
 
 v2.3: Fixed known issues.
