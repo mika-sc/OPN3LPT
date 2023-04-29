@@ -24,7 +24,7 @@ v2.1: Bug fixed.
 
 ### 1. Opening
 
--> Remember to open it at EasyEDA (website: lceda.cn) .
+-> Remember to open it at EasyEDA (website: easyeda.com) .
 
    Click "Document" > "Open" > "EasyEDA Source", and select "NEW_PCB.json".
    
