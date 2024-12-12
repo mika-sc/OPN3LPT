@@ -1,5 +1,3 @@
-### Northern Project Prologue
-
 # OPN3LPT - YMF288 synthesizer card for PC/AT and PC98
 
 #### Based on the OPN3LPT v1.0 (https://github.com/74644323/OPN3LPT)
@@ -22,9 +20,9 @@ v2.2: Add RESET button, fixed some bugs.
 v2.1: Bug fixed.
 
 
-### 1. Opening
+### 1. Making gerber
 
--> Remember to open it at EasyEDA (website: easyeda.com) .
+-> Open it in EasyEDA (website: easyeda.com) .
 
    Click "Document" > "Open" > "EasyEDA Source", and select "NEW_PCB.json".
    
@@ -36,7 +34,7 @@ v2.1: Bug fixed.
 
 ### 3. About drivers
 
-   Using a special PMD driver called PMDLPT.
+   Using a special PMD driver "PMDLPT".
    
    Two versions here:
    
